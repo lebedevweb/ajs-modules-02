@@ -1,0 +1,23 @@
+{
+  "name": "ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebedevweb/ajs-modules-02.git"
+  },
+  "author": "lebedevweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebedevweb/ajs-modules-02/issues"
+  },
+  "homepage": "https://github.com/lebedevweb/ajs-modules-02#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
